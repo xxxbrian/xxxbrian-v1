@@ -12,7 +12,9 @@
 
 **A Student.**
 
-Currently studying in **University of New South Wales** for a degree in Computer Science. 🎓
+Recently graduated from **University of New South Wales** with a degree in Computer Science. 🎉
+
+Now pursuing a Master’s degree at **University of Melbourne**. 🎓
 
 [![bojin.co](https://img.shields.io/badge/Website-bojin.co-blueviolet)](https://bojin.co)
 [![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Fbojinli&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600)](https://twitter.com/bojinli)
